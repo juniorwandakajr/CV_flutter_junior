@@ -20,6 +20,9 @@ Gestionnaire et Information -Goma, RDC.
 ###6. Contact
 ![contact](captures/capture_contact.jpeg)
 
+###7. Video de demonstration
+Video de demo : [voir la video](android/assets/videocv.mp4)
+
 ## Contact
 - Telephone : +243 984 506 008
 - Email : juniorwandaka7@gmail.com
